@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a Computer Systems Engineer with an interest in web development and the creation of functional, intuitive applications tailored to user needs.
+I have experience developing web projects using technologies such as JavaScript, React, Node.js, Express, HTML, CSS, and MySQL.
+I am keen to further strengthen my skills in both frontend and backend development, learn new technologies, and contribute to projects where I can apply my knowledge, solve problems, and continue my professional growth within the field of web development.
+
 <!--
 **mafefloresso/mafefloresso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
